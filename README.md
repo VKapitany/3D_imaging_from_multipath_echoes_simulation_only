@@ -6,6 +6,8 @@ Alex Turpin, Valentin Kapitany, Jack Radford, Davide Rovelli, Kevin Mitchell, As
 This repository is published under a CC BY-NC 4.0 License. The corresponding authors are 
 Dr. Alex Turpin (alex.turpin@glasgow.ac.uk) and Prof. Daniele Faccio (daniele.faccio@glasgow.uk)
 
+![fig1](https://github.com/VKapitany/3D_imaging_from_multipath_echoes_simulation_only/blob/main/results/figs/MF1/fig1_model_metrics.svg)
+
 Contents:
 
 LICENSE_CC_BY-NC_4.0.txt
@@ -28,5 +30,7 @@ src
 >utils.py contains some methods shared among multiple IPython notebook
 >nn_architectures.py contains the convolutional neural network architectures for the various data types, as shown in ..data/04_cnn_architectures
 
-
+###To run:
+This code is written in Python, and formatted in an IPython Notebook. The dependencies are stored in requirements.txt. We recommend you to download Anaconda or Miniconda,
+install the dependencies, and run the project in a Jupyter Notebook.
 
