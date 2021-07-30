@@ -7,7 +7,7 @@ Physical Review Letters, vol. 126, num. 17
 This repository is published under a CC BY-NC 4.0 License. The corresponding authors are 
 Dr. Alex Turpin (alex.turpin@glasgow.ac.uk) and Prof. Daniele Faccio (daniele.faccio@glasgow.uk)
 
-![fig1](https://github.com/VKapitany/3D_imaging_from_multipath_echoes_simulation_only/blob/main/results/figs/MF1/fig1_model_metrics_small.svg)
+![fig1](https://github.com/VKapitany/3D_imaging_from_multipath_echoes_simulation_only/blob/main/results/figs/MF1/bgd.png)
 
 Contents:
 
