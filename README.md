@@ -30,7 +30,7 @@ src
 >utils.py contains some methods shared among multiple IPython notebook
 >nn_architectures.py contains the convolutional neural network architectures for the various data types, as shown in ..data/04_cnn_architectures
 
-###To run:
+### To run:
 This code is written in Python, and formatted in an IPython Notebook. The dependencies are stored in requirements.txt. We recommend you to download Anaconda or Miniconda,
 install the dependencies, and run the project in a Jupyter Notebook.
 
