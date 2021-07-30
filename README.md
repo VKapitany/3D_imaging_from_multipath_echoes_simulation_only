@@ -2,6 +2,7 @@ This repository holds material for:
 
 Alex Turpin, Valentin Kapitany, Jack Radford, Davide Rovelli, Kevin Mitchell, Ashley Lyons, Ilya Starshynov & Daniele Faccio 
 ## "3D imaging from multipath temporal echoes" 
+Physical Review Letters, vol. 126, num. 17
 
 This repository is published under a CC BY-NC 4.0 License. The corresponding authors are 
 Dr. Alex Turpin (alex.turpin@glasgow.ac.uk) and Prof. Daniele Faccio (daniele.faccio@glasgow.uk)
